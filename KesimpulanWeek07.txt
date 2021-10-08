@@ -1,0 +1,5 @@
+User bisa mengambil foto dan video dengan kamera handphone. Ketika user memencet tombol
+"AMBIL FOTO" maka user akan melihat tampilan kamera untuk mengambil gambar. Lalu user bisa
+menekan tombol "OK" agar foto dapat disave. Ketika user memencet tombol "AMBIL VIDEO" maka
+user akan melihat tampilan kamera untuk mengambil video. Lalu user bisa menekan tombol "OK"
+agar video dapat disave. Video lalu bisa diputar melalui aplikasi.

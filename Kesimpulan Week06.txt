@@ -1,0 +1,3 @@
+Untuk Week06A, memunculkan lingkaran yang membesar saat diklik.
+Untuk Week06B, memunculkan gif.
+Untuk Week06C, tombol spring akan menjatuhkan kebawah, sedangkan tombol fling akan membuat memutar.

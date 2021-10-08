@@ -1,0 +1,3 @@
+Seekbar: Logic dalam Seekbar dibentuk dengan function pada MainActivity di masing-masing seekbar.
+Radio Button: Berfungsi untuk memilih bentuk yang akan digambar. Bentuk pada radio button diatur oleh function lepas.
+Terdapat function drawline yang bisa menghasilkan gambarnya.

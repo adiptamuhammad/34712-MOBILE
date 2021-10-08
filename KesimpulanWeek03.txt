@@ -1,0 +1,6 @@
+Appnya dapat memperlihatkan list dari kata 1 sampai 20.
+Apabila kata tersebut diklik maka akan muncul tulisan "pernah diklik"
+Ada floating button bertulisan "add" yang berfungsi untuk menambah list kata
+Kata yang baru ditambahkan akan melanjutkan dari urutan sebelumnya
+Setelah ditambah katanya akan muncul tulisan "telah ditambahkan"
+Kata yang ditambah dan sudah dilik akan muncul juga tulisan "pernah diklik"
