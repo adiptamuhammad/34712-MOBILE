@@ -1,0 +1,2 @@
+Kesimpulan:
+Kita dapat mengubah light dan proximity sensor di tab additional sensor.

@@ -1,0 +1,8 @@
+Kesimpulan:
+Aplikasi penandaan peta Google Maps, dimana user bisa melihar daerah yang ditandai.
+User bisa menambahkan penanda baru dengan cara menekan tombol tambah di kiri bawah.
+User memiliki beberapa pilihan saat menambah penanda:
+1. Marker: untuk menandai 1 titik
+2. Circle: untuk menandai daerah dalam suatu radius
+3. PolyLine: untuk menandai jarak antar titik 1 dan 2
+4. Polygon: untuk menandai daerah dengan memberikan titik-titik tertentu
